@@ -3,7 +3,7 @@
     padding: 0;
 
 }
-.signupform{
+.loginform{
     width: 300px;
     box-shadow: 0 0 3px 0 rgba(0, 0, 0, 3);
     background: #fff;
@@ -11,8 +11,8 @@
     margin: 8% auto 0;
     text-align: center;
 }
-.signupform h1{
-    color: #1c8adb;
+.loginform h1{
+    color: #2415eb;
     margin-bottom: 30px;
 }
 .inputbox {
@@ -58,4 +58,8 @@ hr {
 img{
     width: 70px;
     margin-top: -60px;
+}
+.forget{
+    color: red;
+    margin-right: 10px;
 }
